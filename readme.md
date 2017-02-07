@@ -1,0 +1,1 @@
+Testing of php scripts by means of PHPUnit - simple exercises.
